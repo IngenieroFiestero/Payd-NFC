@@ -13,4 +13,6 @@ Un ejemplo de la implantacion en solitario seria colocar uno en las paradas o es
 
 El ejemplo de implantacion en grupo y control por nodo seria una facultad universitaria. En ella hay multitud de maquinas de vending donde cada vez mas son aceptados los billetes pero no siempre es la opcion mas conveniente, pues pagar 20€ y recibir 19€ en monedas como cambio no suele ser del agrado de nadie. Esto obliga a ir a la cafeteria, aguantar colas y precios posiblemente mas altos o simplemente no disponer del producto que tu quieres, ya que suelen tener gran variedad.
 
-El funcionamiento del nodo seria la de control de todas las maquinas y estadisticas de uso. Asi, en un proyecto piloto podria analizarse donde el impacto es mas fuerte. Dotaria a las maquinas de conexion a internet permanente y diag
+El funcionamiento del nodo seria la de control de todas las maquinas y estadisticas de uso. Asi, en un proyecto piloto podria analizarse donde el impacto es mas fuerte. Dotaria a las maquinas de conexion a internet permanente y diagnostico a distancia.
+
+La conexion de las maquinas a internet se haria identificando cada dispensador con un token seguro y comprobando concordancia de claves. El sistema de pago podria ser la pasarela propia de NFC de La Caixa.
